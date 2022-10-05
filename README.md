@@ -28,3 +28,7 @@ Seaborn == 0.11.2
 Sklearn == 1.0.2
 Statsmodels == 0.12.2
 ```
+
+### How To Run
+
+Download the notebooks with data files (from outside source) then run each cell consequently.
